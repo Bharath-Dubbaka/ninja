@@ -1,0 +1,49 @@
+* {
+    font-family: Verdana;
+  }
+  .main-div {
+    padding: 1em;
+    padding-top: 5em;
+    background-color: #6666662a;
+    padding-bottom: 10em;
+  }
+  .heading-div {
+    color: rgb(255, 123, 0);
+    padding-left: 10em;
+  }
+  .title-div {
+    font-weight: 750;
+  }
+  .caption-div {
+    font-family: monospace;
+    padding-left: 10em;
+    font-weight: 600;
+    margin-top: 1em;
+  }
+  
+  .action-div {
+    display: flex;
+    margin-top: 5em;
+    margin-bottom: 3em;
+    padding-left: 8em;
+    padding-right: 8em;
+  }
+  .action-div Input {
+    border: 1px solid rgba(0, 0, 0, 0.534);
+    font-family: monospace;
+  }
+  
+  .input-field {
+    margin-right: 0.5em;
+  }
+  
+  .action-div Button {
+    background-color: orange;
+    color: black;
+  }
+  .middle-div {
+    padding-left: 6em;
+    padding-right: 6em;
+    text-align: center;
+  }
+  

@@ -1,0 +1,11 @@
+.footer-div {
+    background-color: black;
+    color: lightgray;
+    font-family:monospace;
+    display: flex;
+    justify-content: space-between;
+    padding-left: 4em;
+    padding-right: 4em;
+    padding: 0.5em;
+    margin-top: 10em;
+}
